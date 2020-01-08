@@ -1,0 +1,8 @@
+
+.page {
+    background-image: url("image/ven.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    min-height: 100vh;
+}
